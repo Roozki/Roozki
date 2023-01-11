@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Roozki, or Rowan
-- 👀 I’m interested in robot
-- 🌱 I’m currently learning a lot of stuff, or at least trying to :)
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Rowan Zawadzki
+- 👀 I’m interested in robotics
+- 🌱 I’m currently working hard on the UBC Rover student design team
 - 📫 How to reach me: zawadzkirowan@gmail.com
 
 <!---
