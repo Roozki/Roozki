@@ -1,5 +1,4 @@
 I want to build robots that free up time for humans.
-I can't settle for robots that just take away jobs from humans.
 
 I'm really interested in in-space manufacturing, cats, and technology that collaborates with nature.
 
