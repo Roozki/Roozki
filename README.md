@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rowan Zawadzki
-- 👀 I’m interested in robotics
-- 🌱 I’m currently working hard on the UBC Rover student design team
-- 📫 How to reach me: zawadzkirowan@gmail.com
+I want to build robots that free up time for humans.
+I can't settle for robots that just take away jobs from humans.
+
+I'm really interested in in-space manufacturing, cats, and technology that collaborates with nature.
 
 <!---
 Roozki/Roozki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
