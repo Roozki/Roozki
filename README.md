@@ -1,4 +1,4 @@
-I want to build robots that free up time for humans.
+I want to build robots that free up time for all humans.
 
 I'm really interested in in-space manufacturing, cats, and technology that collaborates with nature.
 
